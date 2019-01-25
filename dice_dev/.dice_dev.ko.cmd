@@ -1,0 +1,1 @@
+cmd_/afs/pitt.edu/home/j/p/jpk91/private/cs449/proj4/dice_dev/dice_dev.ko := cp /afs/pitt.edu/home/j/p/jpk91/private/cs449/proj4/dice_dev/dice_dev.ko.unsigned /afs/pitt.edu/home/j/p/jpk91/private/cs449/proj4/dice_dev/dice_dev.ko
